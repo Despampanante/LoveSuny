@@ -29,10 +29,10 @@ This game recalls several built-in 'images' as graphics. These are listed here:\
 1: -Open for testing-\
 2: Title Screen\
 3: Home Screen\
-4: Character 1?\
-5: Character 2?\
-6: Character 3?\
-7: Character 4?\
+4: Oakie the Acorn\
+5: Baxter\
+6: Wolfie Seawolf\
+7: Victor E. Bull\
 8: Wedding Scene?\
 9: -Open for testing-\
 
@@ -59,6 +59,7 @@ H: Screen height multiplier\
 I: ZDRWTEXT Iterator\
 K: getKey result\
 R: ZDRWTEXT Row\
+S: Character to draw for prgmZ
 Missing variables are unused and do not affect (and are not affected by) the program's operation.
 
 # LYOU List Contents
