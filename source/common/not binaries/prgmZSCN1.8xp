@@ -1,10 +1,10 @@
 1→S
 prgmZ
 43→R
-"HI THERE! I AM OAKIE!→Str9
+"LINE ONE°LINE TWO°LINE THREE→Str9
 prgmZDRWTXT
 prgmZ
-"Option 1→Str0
-"Option 2→Str1
-"→Str2
+"Tell them no→Str0
+"Say maybe→Str1
+"Eat shit→Str2
 prgmZMENU
