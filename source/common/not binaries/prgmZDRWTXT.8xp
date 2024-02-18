@@ -14,6 +14,7 @@ Else
 End
 L₅(1)→C
 L₅(2)→Q
+2→T
 Goto A
 Lbl B
 2→T
