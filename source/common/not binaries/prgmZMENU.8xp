@@ -27,5 +27,5 @@ Line(2,18-6B,4,16-6B,A
 Line(2,14-6B,4,16-6B,A
 B→C
 End
-⌊CHR(S)+⌊RZZ(B+1)→⌊CRS(S
+⌊CHR(S)+⌊RZZ(B+1)→⌊CHR(S
 prgmZ
