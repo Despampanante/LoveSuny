@@ -22,7 +22,7 @@ If S=4
 Str1+Str0→Str9
 ClrDraw
 RecallPic 8
-Text(0,0,Str9
+Text(round(43*G,0),0,Str9
 Pause 
 prgmZ
 "SEE YOU BACK AT MY PLACE, →Str9

@@ -28,7 +28,7 @@ This game recalls several built-in 'images' as graphics. These are listed here:\
 0: -Open for testing-\
 1: -Open for testing-\
 2: Title Screen\
-3: Home Screen\
+3: Narrator (no speaker)\
 4: Oakie the Acorn\
 5: Baxter\
 6: Wolfie Seawolf\
