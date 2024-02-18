@@ -21,6 +21,7 @@ prgmZDRWTXT
 {2,1,0}→⌊RZZ
 prgmZMENU
 4→S
+prgmZ
 "HEY THERE. WHAT'S YOUR NAME?→Str9
 prgmZDRWTXT
 prgmZTYPNAME

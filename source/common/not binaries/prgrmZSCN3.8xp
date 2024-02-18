@@ -1,0 +1,33 @@
+1→S
+prgmZ
+43→R
+"YOU APPROACH THE ESF TABLE.→Str9
+prgmZDRWTXT
+"HEY, THERE. WHAT'S UP?→Str9
+prgmZDRWTXT
+"NOT MUCH→Str0
+"OPTION 2→Str1
+"OPTION 3→Str2
+{1,2,0}→⌊RZZ
+prgmZMENU
+If B=0
+"ONE→Str9
+If B=1
+"TWO→Str9
+If B=0
+"THREE→Str9
+prgmZDRWTXT
+"C2→Str9
+prgmZDRWTXT
+"1!→Str0
+"2!→Str1
+"3!→Str2
+{1,0,2}→⌊RZZ
+prgmZMENU
+If B=0
+"ONE→Str9
+If B=1
+"TWO→Str9
+If B=0
+"THREE→Str9
+prgmZDRWTXT
