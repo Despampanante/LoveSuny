@@ -1,0 +1,24 @@
+0→S
+prgmZ
+43→R
+"TALK TO OAKIE→Str0
+"TALK TO BAXTER→Str1
+"TALK TO VICTOR→Str2
+prgmZMENU
+If B=1
+"OPTION NOT CURRENTLY ACCEPTED→Str9
+If B=2
+"OPTION NOT CURRENTLY ACCEPTED→Str9
+1→S
+"Hey, →Str9
+Str9+Str4→Str9
+prgmZDRWTXT
+"A date...?→Str9
+prgmZDRWTXT
+If ⌊CHR(1)>2
+Then
+1→S
+"Yeah!→Str9
+prgmZDRWTXT
+prgmZGAMOVR
+End
