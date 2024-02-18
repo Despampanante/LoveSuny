@@ -47,7 +47,20 @@ prgmZDRWTXT
 {0,0,0}→⌊RZZ
 prgmZMENU
 If B=0
-"SCENE 5.→Str9
+prgmZSCN5
 If B=1
-"SCENE 8→Str9
+Then
+3→S
+"Hey, →Str9
+Str9+Str4→Str9
 prgmZDRWTXT
+"A date...?→Str9
+prgmZDRWTXT
+If ⌊CHR(3)>2
+Then
+1→S
+"Yeah!→Str9
+prgmZDRWTXT
+prgmZGAMOVR
+End
+End
