@@ -1,13 +1,12 @@
+43→R
+2→C
+1→I
 6→U
 If G>1
 15→U
-
 90→V
 If G>1
 245→V
-
-2→C
-1→I
 Lbl A
 If "°"=sub(Str9,I,1
 Then
@@ -57,3 +56,4 @@ If I<1+length(Str9
 Goto A
 DelVar IDelVar CDelVar R
 Pause 
+prgmZ
