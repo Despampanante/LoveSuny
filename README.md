@@ -58,8 +58,10 @@ G: Screen width multiplier\
 H: Screen height multiplier\
 I: ZDRWTEXT Iterator\
 K: getKey result\
+Q: ZDRWTEXT Row Character Countdown 
 R: ZDRWTEXT Row\
 S: Character to draw for prgmZ
+T: ZDRWTEXT Row Count
 Missing variables are unused and do not affect (and are not affected by) the program's operation.
 
 # LYOU List Contents
