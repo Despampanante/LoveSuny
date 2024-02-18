@@ -1,4 +1,4 @@
-1→S
+0→S
 prgmZ
 43→R
 "WELCOME TO LOVE SUNY!→Str9
