@@ -1,4 +1,6 @@
 ClrDraw
+If S=0
+RecallPic 3
 If S=1
 RecallPic 4
 If S=2

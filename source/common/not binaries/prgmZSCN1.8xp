@@ -1,4 +1,4 @@
-1→S
+0→S
 prgmZ
 43→R
 "WELCOME TO LOVE SUNY!→Str9
@@ -19,8 +19,8 @@ prgmZDRWTXT
 "TRY TO AVOID THE GREETER→Str1
 "→Str2
 {2,1,0}→⌊RZZ
-prgmZMENU
 4→S
+prgmZMENU
 prgmZ
 "HEY THERE. WHAT'S YOUR NAME?→Str9
 prgmZDRWTXT
