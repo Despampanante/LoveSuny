@@ -33,7 +33,7 @@ This game recalls several built-in 'images' as graphics. These are listed here:\
 5: Baxter\
 6: Wolfie Seawolf\
 7: Victor E. Bull\
-8: Wedding Scene?\
+8: Game Over\
 9: -Open for testing-\
 
 # Strings list
