@@ -27,5 +27,7 @@ Line(2,18-6B,4,16-6B,A
 Line(2,14-6B,4,16-6B,A
 B→C
 End
+If S=0
+4→S
 ⌊CHR(S)+⌊RZZ(B+1)→⌊CHR(S
 prgmZ
